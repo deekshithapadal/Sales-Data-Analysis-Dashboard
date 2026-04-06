@@ -1,0 +1,17 @@
+sales-data-analysis/
+│
+├── data/
+│   └── superstore.csv
+│
+├── dashboard/
+│   └── sales_dashboard.pbix
+│
+├── screenshots/
+│   ├── overview.png
+│   ├── sales_by_region.png
+│   └── profit_analysis.png
+│
+├── sql/
+│   └── queries.sql
+│
+└── README.md
